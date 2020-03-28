@@ -1,0 +1,2 @@
+model_checkpoint_path: "checkpoint_3to8.ckpt"
+all_model_checkpoint_paths: "checkpoint_3to8.ckpt"
