@@ -1,5 +1,6 @@
 # Optical_character_recognition
-This repository provide script to do OCR using some basic Deep Learning approach
+This repository provide script to do OCR using some basic Deep Learning approach.
+
 You could from series blog posts on same as given below:
 * [OCR: Part 1 — Dataset Generation](https://medium.com/@vijendra1125/ocr-part-1-generate-dataset-69509fbce9c1)
 * [OCR: Part 2 — OCR using CNN](https://medium.com/@vijendra1125/ocr-part-2-ocr-using-cnn-f43f0cee8016)
