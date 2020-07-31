@@ -1,4 +1,4 @@
-# Optical_character_recognition
+# Optical Character Recognition
 This repository provide script to do OCR using some basic Deep Learning approach.
 
 You could found a series blog posts on same as given below:
