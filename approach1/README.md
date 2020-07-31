@@ -1,11 +1,11 @@
 # Random String Recognition
 
 ## Objective
-This section focus on random string recognition using end-to-end learning of a custom CNN. This method wont be much useful in most of the practical applications (may be you could give try to break random letter captcha :wink:) but definitely it is most simple step toward Optical Character Recognition and hence it will be a good starting excercise for a beginner. By doing this mini-project you learn following:
+This section is focused on random string recognition using end-to-end learning of a custom CNN. This method wont be much useful in most of the practical applications (may be you could give try to break random letter captcha :wink: ) but definitely it is most simple step toward Optical Character Recognition and hence it will be a good starting excercise for a beginner. By doing this mini-project you learn following:
 * Data generation
 * Converting image data to tfrecord
-* Verfying tfrecord visualy
-* Designing, training and testing custom CNN network 
+* Verfying tfrecord visually
+* Designing, training and testing a custom CNN network 
 
 > Note: This is just a sample program to provide you template for random string recognition. You could definetily add more variation in dataset and use better CNN architecture to do much better.
 
