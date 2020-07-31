@@ -1,7 +1,7 @@
 # Optical Character Recognition
-This repository aims to provide a collection of mini-projects for a beginner learning Optical Character recognition (OCR) using Deep Learning. Idea is to start with very simple idea for OCR and then progressing toward complex one. 
+This repository aims to provide a collection of mini-projects for a beginner learning Optical Character recognition (OCR) using Deep Learning. Idea is to start with very simple concept for OCR and then progress toward complex ones. 
 
-Current following ideas have been added:
+Current following concept have been added to repositories:
 * Training a custom CNN end-to-end for random string recognition
 * Reading paragraph from a screenshot. Using OpenCV to segment out the characters and a custom CNN to classify charaters. 
 
