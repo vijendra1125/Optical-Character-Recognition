@@ -22,6 +22,6 @@ We will target to do following:
   5. Test the trained custom CNN model 
 
 ## Blog Posts
-Link to the blog post: 
-* Random string data generation:  https://medium.com/@vijendra1125/ocr-part-1-generate-dataset-69509fbce9c1
-* Custom CNN training for random string recognition: https://medium.com/@vijendra1125/ocr-part-2-ocr-using-cnn-f43f0cee8016
+Link to the blog posts: 
+* [Random string data generation](https://medium.com/@vijendra1125/ocr-part-1-generate-dataset-69509fbce9c1)
+* [Custom CNN training for random string recognition](https://medium.com/@vijendra1125/ocr-part-2-ocr-using-cnn-f43f0cee8016)
