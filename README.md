@@ -3,7 +3,7 @@ This repository aims to provide a collection of mini-projects for a beginner lea
 
 Currently following concepts have been added to repository:
 * Approach1: Training a custom CNN end-to-end for random string recognition
-* Approach: Reading paragraph from a screenshot. Using OpenCV to segment out the characters and a custom CNN to classify charaters. 
+* Approach2: Reading paragraph from a screenshot. Using OpenCV to segment out the characters and a custom CNN to classify charaters. 
 
 > I hope in future I get to do more mini-projects. If you would like to contribute then contact me at vijendrasingh003@gmail.com
 
